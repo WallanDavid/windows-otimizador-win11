@@ -1,0 +1,1 @@
+# Script-Otimizador-Windows-11
