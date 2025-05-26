@@ -1,30 +1,32 @@
-# Script de Otimização de Desempenho para Windows 11
+# ⚡ Script de Otimização de Desempenho para Windows 11
 
-Este script em lote foi criado para ajudar na otimização do desempenho do sistema no Windows 11, aplicando várias configurações recomendadas.
+Este script em lote (.bat) foi criado para aplicar uma série de ajustes no sistema operacional **Windows 11**, visando melhorar o desempenho geral da máquina e desabilitar recursos que podem consumir recursos desnecessários.
 
-## Instruções de Uso:
+## 🛠️ Instruções de Uso
 
-1. **Execute como Administrador:**
-   Certifique-se de executar o script com privilégios de administrador para garantir que ele tenha as permissões necessárias para fazer alterações no sistema.
+1. Execute como Administrador: Clique com o botão direito no arquivo `otimizar win 11.bat` e selecione “Executar como administrador”. Isso garante que o script tenha as permissões necessárias para fazer alterações no sistema.
 
-2. **Edite o Script (Opcional):**
-   Se necessário, abra o arquivo do script (.bat) em um editor de texto para ajustar as configurações conforme suas necessidades específicas.
+2. Edite o Script (Opcional): Se desejar personalizar alguma configuração, abra o arquivo `.bat` em um editor de texto (como Notepad++) antes da execução.
 
-3. **Execução:**
-   Duplo clique no arquivo "otimizar_desempenho.bat" para executar o script. Alternativamente, você pode executá-lo a partir do prompt de comando.
+3. Execução: Dê dois cliques no arquivo ou execute via Prompt de Comando com permissões elevadas. O script aplicará automaticamente todas as otimizações pré-definidas.
 
-4. **Reinicie o Sistema:**
-   Após a execução do script, é recomendável reiniciar o sistema para aplicar as alterações.
+4. Reinicie o Sistema: Após a execução, **reinicie o computador** para que todas as alterações entrem em vigor corretamente.
 
-## Aviso:
+## ⚠️ Aviso
 
-Este script realiza modificações nas configurações do sistema que podem afetar o desempenho e a estabilidade. Certifique-se de fazer backup de seus dados importantes antes de executar o script.
+Este script realiza modificações diretas nas configurações do sistema operacional, como serviços, animações, configurações visuais, entre outros. Certifique-se de **fazer backup dos seus dados importantes** antes de executar. Algumas otimizações podem afetar recursos como transparência, sugestões do menu iniciar ou funcionalidades em segundo plano.
 
-## Contribuições:
+## 🤝 Contribuições
 
-Contribuições e sugestões são bem-vindas. Sinta-se à vontade para melhorar o script e compartilhar suas alterações.
+Contribuições, melhorias e sugestões são bem-vindas! Sinta-se à vontade para:  
+- Abrir uma issue com ideias ou problemas encontrados  
+- Criar um pull request com novos ajustes ou melhorias  
+- Compartilhar variações do script que se adaptem a diferentes cenários de uso
 
----
+## 📜 Nota Legal
 
-**Nota:**
-Este script é fornecido "como está", e o autor não se responsabiliza por quaisquer danos causados pelo seu uso. Use por sua conta e risco.
+Este script é fornecido “como está”. O autor **não se responsabiliza** por quaisquer danos, mal funcionamento ou alterações irreversíveis causadas ao seu sistema. Ao utilizar este script, você está fazendo isso **por sua conta e risco**.
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da [MIT License](LICENSE).
